@@ -1,0 +1,19 @@
+.nav-link {
+  color: #ffffff;
+}
+.active {
+  color: #ffffff !important;
+  background-color: transparent !important;
+}
+.active-trainer {
+  border-style: outset;
+  border-width: 3px;
+  border-radius: 5px;
+  width: 50%;
+  background-color: #25252500;
+  color: #ffffff;
+}
+
+.no-scroll {
+  overflow: hidden;
+}

@@ -1,0 +1,18 @@
+/* * {
+  text-align: center;
+} */
+.card {
+  width: 18rem;
+}
+
+.credit {
+  font-size: small;
+}
+
+.background-image {
+  max-width: 100%;
+}
+
+.w-fit {
+  width: fit-content;
+}

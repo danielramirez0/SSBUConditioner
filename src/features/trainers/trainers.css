@@ -1,0 +1,16 @@
+.training-item {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-right: 10px;
+  border: none;
+  border-bottom: outset;
+  border-bottom-width: 1px;
+  margin-left: 0px;
+  /* margin-right: 0px; */
+}
+
+.scroll-y-50r {
+  max-height: 50rem;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}

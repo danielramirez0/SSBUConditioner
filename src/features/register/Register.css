@@ -1,0 +1,27 @@
+/* .center { */
+/* margin: auto; */
+/* } */
+
+#register-container {
+  /* margin-top: 10%; */
+  margin: auto;
+  width: 400px;
+}
+
+.full-box {
+  padding: 5px;
+  /* width: 500px; */
+  border-style: groove;
+  border-radius: 15px;
+  border-color: rgb(43, 43, 43);
+  color: rgb(228, 228, 228);
+  background-color: #212529;
+}
+
+.errors {
+  color: red;
+}
+
+.text-left {
+  text-align: left;
+}
